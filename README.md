@@ -10,9 +10,9 @@ Download MaxBr.class file to check maximum brightness supporte:
 Go to the downloaded folder: cd Downloads
 To run program - sudo java MaxBr
 
-Example:
-user@pc:~$ java MaxBr
-19200 (Max Brightness)
+Example:<br>
+user@pc:~$ java MaxBr  <br>
+19200 (Max Brightness)  <br>
 
 
 Download Br.class to change the brightness:
